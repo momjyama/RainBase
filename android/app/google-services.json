@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2370092824",
+    "project_id": "rainbase-13e52",
+    "storage_bucket": "rainbase-13e52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2370092824:android:712deae955c7c5fd2c286d",
+        "android_client_info": {
+          "package_name": "com.example.rain_base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2370092824-2bab4d34e00v8927l4mk39a2g07v4qkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW9OwsvhR0Lj02XfU_kBNcSxftiwVuigM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2370092824-2bab4d34e00v8927l4mk39a2g07v4qkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
